@@ -1,7 +1,8 @@
 #include<stdio.h>
 
 main()
-{
+{	// Answer The question ?
+	
 	char a,b,c,d,ans;
 	
 	printf("(Que.1) What Is India's Big State By Aria ?\n");
@@ -11,6 +12,8 @@ main()
 	printf(" D. Panjab\n");
 	printf("Select option Only(a,b,c,d):%c",ans);
 	scanf("%c",&ans);
+
+	// Four Option like A, B, C & D...
 	
 	if(ans=='c')
 	{
