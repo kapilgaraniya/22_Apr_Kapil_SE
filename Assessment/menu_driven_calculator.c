@@ -61,7 +61,7 @@ main()
 	
 	// Use Loop...
 	do{
-		printf("__________Menu__________\n\n");
+		printf("\n\n__________Menu__________\n\n");
 		printf("1. Addition\n");
 		printf("2. Substraction\n");
 		printf("3. Multiplition\n");
