@@ -19,6 +19,6 @@ main()
 	}
 	else
 	{
-		printf("Area is Big Than Perimeter");	
+		printf("Area is Not Big Than Perimeter");	
 	}
 }
