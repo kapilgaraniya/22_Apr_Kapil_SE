@@ -15,16 +15,16 @@ main()
 	
 	if(a>b && a>c)
 	{
-		printf("%d is Greatest",a);
+		printf("%d = is Greatest",a);
 	}
 	
 	if(b>a && b>c)
 	{
-		printf("%d is Greatest",b);
+		printf("%d = is Greatest",b);
 	}
 	
 	if(c>a && c>b)
 	{
-		printf("%d id Greatest",c);
+		printf("%d = is Greatest",c);
 	}
 }
