@@ -1,0 +1,14 @@
+students Information :
+
+roll no. = 1
+Stu. Name = Kapil
+
+roll no. = 2
+Stu. Name = Chintan
+
+roll no. = 3
+Stu. Name = Hardik
+
+roll no. = 4
+Stu. Name = Rahul
+
