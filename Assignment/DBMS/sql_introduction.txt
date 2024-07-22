@@ -1,0 +1,17 @@
+   ---SQL Commands---
+--------------------------
+
+1) DDL : Create, Alter, Truncate, Drop
+= Data Definition Language
+
+2) DMl : insert, Update, Delete
+= Data Manipulation Language
+
+3) DQL : Select
+= Data Query Language
+
+4) DCl : Grant, Revoke
+= Data Control Language
+
+5) TCL : Commint, Rollback, Savepoint
+= Transaction Control Language
