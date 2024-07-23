@@ -1,0 +1,10 @@
+SQL Constraints (Validation)
+====================================================
+
+NN - Not Null
+PK - Primary Key -> Integer
+AI - Autoincrement -> Integer
+U - Unique -> Any Datatype
+Default - Set a Default Value -> Rajkot
+Check - condition -> Age>=18
+Foreign Key - Link Two Or more Tables
